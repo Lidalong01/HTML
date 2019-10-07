@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>学习网站的首页</title>
+  <!-- 引入外部css -->
+      <link rel="stylesheet" type="text/css" href="css soft/frist.css"/>
+      <!-- 添加网页图标 -->
+	    <link rel="Shortcut Icon" href="images/jingtian1.jpg" type="image/x-icon" />
+</head>
+<body>
+	<div id="frist">
+	  <div id="jianshao">我的学习网站</div>
+        
+      <div id="scoll">
+          <marquee  scrollamount="10"width="100%" height="100%" direction ="left" onmouseover="this.stop()" onmouseout="this.start()" >
+					<span >我是学霸</a>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+					<span >我要好好学习，天天向上</a>&nbsp;&nbsp;&nbsp;&nbsp;</a></span>
+					<span >如果努力有用的话，还要天才干仕么</a>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+					<span >哈哈哈哈哈哈哈哈哈哈哈哈</a>&nbsp;&nbsp;&nbsp;&nbsp;，</span>
+					<span >王者最六，吃鸡最牛</a>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+          </marquee>   
+      </div>
+              <div id="big">  
+                <div class="w1"><a href="https://www.51zxw.net/">我要自学网</a></div>
+                <div class="w1"><a href="https://study.163.com/series/91001.html">ps入门</a></div>
+                <div class="w1"><a href="http://www.mvyxws.com/" >docuor</a></div>
+                <div class="w1"><a href="https://www.uupoop.com/">ps在线编辑</a></div>
+                <div class="w1"><a href="https://www.htmldog.com/guides/">js前端</a></div>
+                <div class="w1"><a href="https://www.shiyanlou.com/" >实验楼java</a></div>
+                <div class="w1"><a href="https://www.w3cschool.cn/" >v3编程</a></div>
+                <div class="w1"><a href="https://www.v2ex.com/">v2问题</a></div>
+
+                <div class="w2"><a href="http://i-remember.fr/en/" > 我记得</a></div>
+                <div class="w2"><a href="https://www.skypixel.com/" >天空之城 </a></div>
+                <div class="w2"><a href="https://github.com/" > github</a></div>
+                <div class="w2"><a href="http://photo505.com/" > 恶搞图片</a></div>
+                <div class="w2"><a href="https://www.netcraft.com/" >服务器查看 </a></div>
+                <div class="w2"><a href="" > </a></div>
+                <div class="w2"><a href="" > </a></div>
+                <div class="w2"><a href="" > </a></div>
+
+                <div class="w3"><a href="http://www.howzhi.com/">好知</a></div>
+                <div class="w3"><a href="http://www.shougongke.com/">手工客</a></div>
+                <div class="w3"><a href="https://818ps.com/?user_source=r4643&route_id=15580139575163&route=1&after_route=" >图片编辑 </a></div>
+                <div class="w3"><a href="http://www.5060w.tv/index.html" > 电影</a></div>
+                <div class="w3"><a href="http://www.88ys.cc/" > 电影</a></div>
+                <div class="w3"><a href="" > </a></div>
+                <div class="w3"><a href="" > </a></div>
+                <div class="w3"><a href="" > </a></div>
+     
+             </div> 
+
+             <div>
+				<h1></h1>
+             </div>
+                  
+	</div>
+</body>
+</html>
